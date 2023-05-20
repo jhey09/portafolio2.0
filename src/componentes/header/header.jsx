@@ -1,5 +1,6 @@
 import './header.css'
 
+
 const Header = () => { 
 
     
@@ -21,8 +22,8 @@ const Header = () => {
             <div className="header__info">
                 <ul className="">
                    <a href=""><li >Sobre mí</li></a>
-                    <a href=""><li>Proyectos</li></a>
-                    <a href=""><li >Contacto</li></a>
+                    <a href=''><li>Proyectos</li></a>
+                    <a href="https://github.com/jhey09"><li >Contacto</li></a>
                     <a href="/comments"><li>Comentarios</li></a>
                 </ul>
             </div>
